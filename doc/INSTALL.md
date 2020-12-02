@@ -1,3 +1,9 @@
+# 0 Download
+
+    git clone git@github.com:linzhi2013/specimen_bioseq_system.git
+    tar zxvf specimen_bioseq_system-2.0.tar.gz
+    cd specimen_bioseq_system-2.0
+
 # 1. Dependencies
 
     conda create -n django-3.1.2 -c anaconda -c conda-forge django=3.1.2 django-import-export=2.4.0 django-grappelli=2.14.2 djangorestframework=3.12.1 biopython postgresql psycopg2
