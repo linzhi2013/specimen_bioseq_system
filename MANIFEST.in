@@ -1,4 +1,0 @@
-recursive-include specimen_bioseq_system/static_root *
-recursive-include doc *
-recursive-include specimen_bioseq_system *.pye
-recursive-include images *
