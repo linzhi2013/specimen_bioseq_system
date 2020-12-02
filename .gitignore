@@ -1,0 +1,7 @@
+specimen_bioseq_system/analysis/**/*.py
+specimen_bioseq_system/media_root/**/*.py
+specimen_bioseq_system/seqdb/**/*.py
+specimen_bioseq_system/specimen/**/*.py
+specimen_bioseq_system/specimendb/**/*.py
+specimen_bioseq_system/static_root/**/*.py
+dist
