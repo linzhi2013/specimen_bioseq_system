@@ -53,7 +53,7 @@ If you upload annotated sequences (e.g. in GenBank format), you can even **direc
 
 The **Specimen Bioseq Information Managment System** provides a user-friendly website. You can create multiple users, each user with different privilege (for example, both viewing and editing, viewing only).
 
-The user can upload data to the system with different kind format files (Excel, CSV, TSV etc.), you can also just add/update/delete records from the website.
+The user can upload data to the system with different kind format files (Excel, CSV, TSV etc.), you can also just add/update/delete records on the website.
 
 ![images/overview.png](images/overview.png)
 ![images/add_record.png](images/add_record.png)

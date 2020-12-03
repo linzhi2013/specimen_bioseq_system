@@ -117,8 +117,9 @@ Now you're ready to use the system!
 
     python3 manage.py runserver
 
-Copy the URL printed out by this command to your browser and enjoy it!
+Copy the URL (`http://127.0.0.1:8000/admin/`) printed out by this command to your browser, login the database with previously created account and password (e.g., username: `django`, passoword: `django123`) and enjoy it!
 
+From now on, you can do the rest of the jobs on the website only!
 
 
 # 4. Copyright
