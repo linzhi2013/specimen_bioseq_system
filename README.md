@@ -93,6 +93,8 @@ Check the file [doc/INSTALL.md](doc/INSTALL.md).
 
 # 5. Copyright
 
+**If you use this program in your analysis, or you "steal" the idea/codes of this program into your script, I should be one of the co-authors in your publication!!!**
+
 Copyright (c) 2020-2021 Guanliang Meng. All rights reserved.
 
 This file is part of the Specimen Bioseq System.
